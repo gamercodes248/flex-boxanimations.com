@@ -1,0 +1,50 @@
+body{
+    background-image: url(Flex.png);
+    font-family: Ubuntu, Arial, Helvetica, sans-serif;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+pre{
+    text-align: center;
+    font-family: Ubuntu, Arial, Helvetica, sans-serif;
+}
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-solid.fa-house{
+    color: hsl(0, 0%, 66%)
+}
+.fa-solid.fa-house:hover{
+    color: hsl(0, 0%, 76%)
+}
+.fa-solid.fa-address-card{
+    color: hsl(188, 100%, 50%);
+}
+.fa-solid.fa-address-card:hover{
+    color: hsl(188, 100%, 60%);
+}
+.fa-solid.fa-face-smile{
+    color: hsl(26, 55%, 64%);
+}
+.fa-solid.fa-face-smile:hover{
+    color: hsl(26, 55%, 74%);
+}
+.fa-brands.fa-discord.fa-flip{
+    color: hsl(235, 86%, 65%);
+}
+.fa-brands.fa-discord.fa-flip:hover{
+    color: hsl(235, 86%, 75%);
+}
+.fa-solid.fa-globe{
+    color: hsl(0, 0%, 100%);
+}
+.fa-solid.fa-globe{
+    color: hsl(0, 0%, 130%);
+}
